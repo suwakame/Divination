@@ -30,9 +30,6 @@
       },
       "Dalamud.Divination.Common": {
         "type": "Project"
-      },
-      "ecommons": {
-        "type": "Project"
       }
     }
   }
